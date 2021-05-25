@@ -1,0 +1,4 @@
+# Created by cloud-init v. 20.4.1-0ubuntu1~20.04.1 on Tue, 25 May 2021 11:36:51 +0000
+
+# User rules for git
+git ALL=(ALL) NOPASSWD:ALL
